@@ -15,6 +15,6 @@ Throughout my journey, I have gained experience with the following technologies:
 - **Testing**: TDD, Pest, PHPUnit.  
 - **Tools**: Vite, PhpStorm, VS Code, Postman, Figma.
 <!-- GitHub Readme Stats -->
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=basharalhato&show_icons=true&theme=vue-dark&hide_title=true)](https://github.com/basharalhato)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=basharalhato&cache_seconds=3600&show_icons=true&theme=vue-dark&hide_title=true)](https://github.com/basharalhato)
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=basharalhato&layout=compact&theme=vue-dark)](https://github.com/basharalhato)
